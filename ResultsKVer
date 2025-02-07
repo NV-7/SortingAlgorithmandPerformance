@@ -1,0 +1,66 @@
+Sorting Algorithm - SelectionSort
+Sorted 100 elements in 0.0 ms (avg)
+Sorted 500 elements in 0.0 ms (avg)
+Sorted 1000 elements in 0.0 ms (avg)
+Sorted 2000 elements in 1.0 ms (avg)
+Sorted 5000 elements in 7.0 ms (avg)
+Sorted 10000 elements in 30.0 ms (avg)
+Sorted 20000 elements in 146.0 ms (avg)
+Sorted 75000 elements in 2525.0 ms (avg)
+Sorted 150000 elements in 10248.0 ms (avg)
+
+Sorting Algorithm - BubbleSort
+Sorted 100 elements in 0.0 ms (avg)
+Sorted 500 elements in 0.0 ms (avg)
+Sorted 1000 elements in 0.0 ms (avg)
+Sorted 2000 elements in 0.0 ms (avg)
+Sorted 5000 elements in 6.0 ms (avg)
+Sorted 10000 elements in 27.0 ms (avg)
+Sorted 20000 elements in 136.0 ms (avg)
+Sorted 75000 elements in 2246.0 ms (avg)
+Sorted 150000 elements in 9222.0 ms (avg)
+
+Sorting Algorithm - InsertionSort
+Sorted 100 elements in 0.0 ms (avg)
+Sorted 500 elements in 0.0 ms (avg)
+Sorted 1000 elements in 0.0 ms (avg)
+Sorted 2000 elements in 0.0 ms (avg)
+Sorted 5000 elements in 0.0 ms (avg)
+Sorted 10000 elements in 1.0 ms (avg)
+Sorted 20000 elements in 6.0 ms (avg)
+Sorted 75000 elements in 106.0 ms (avg)
+Sorted 150000 elements in 452.0 ms (avg)
+
+Sorting Algorithm - MergeSort
+Sorted 100 elements in 0.0 ms (avg)
+Sorted 500 elements in 0.0 ms (avg)
+Sorted 1000 elements in 0.0 ms (avg)
+Sorted 2000 elements in 0.0 ms (avg)
+Sorted 5000 elements in 0.0 ms (avg)
+Sorted 10000 elements in 0.0 ms (avg)
+Sorted 20000 elements in 1.0 ms (avg)
+Sorted 75000 elements in 5.0 ms (avg)
+Sorted 150000 elements in 10.0 ms (avg)
+
+Sorting Algorithm - QuickSort
+Sorted 100 elements in 0.0 ms (avg)
+Sorted 500 elements in 0.0 ms (avg)
+Sorted 1000 elements in 0.0 ms (avg)
+Sorted 2000 elements in 0.0 ms (avg)
+Sorted 5000 elements in 0.0 ms (avg)
+Sorted 10000 elements in 0.0 ms (avg)
+Sorted 20000 elements in 0.0 ms (avg)
+Sorted 75000 elements in 3.0 ms (avg)
+Sorted 150000 elements in 7.0 ms (avg)
+
+Sorting Algorithm - ShellSort
+Sorted 100 elements in 0.0 ms (avg)
+Sorted 500 elements in 0.0 ms (avg)
+Sorted 1000 elements in 0.0 ms (avg)
+Sorted 2000 elements in 0.0 ms (avg)
+Sorted 5000 elements in 0.0 ms (avg)
+Sorted 10000 elements in 0.0 ms (avg)
+Sorted 20000 elements in 1.0 ms (avg)
+Sorted 75000 elements in 4.0 ms (avg)
+Sorted 150000 elements in 11.0 ms (avg)
+

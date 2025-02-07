@@ -24,7 +24,7 @@ public class Tester {
         sa.sorty(input);
         long timeEnd = System.nanoTime();
 
-        return (double) ((timeEnd - timeStart)/1000000);
+        return  (double) (timeEnd - timeStart) /1000000;
     }
     public double singleTestKVer(int size){
 
